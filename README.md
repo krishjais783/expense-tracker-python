@@ -41,7 +41,7 @@ The objective of this project is to:
 
 expense-tracker-python/
 │
-├── main.py # Main application file
+├── Tracker.py # Main application file
 ├── expenses.csv # Stores expense records
 └── README.md # Project documentation
 
@@ -62,7 +62,7 @@ pip install pandas
 ### Step 3: Run the Application
 Open terminal or command prompt and run:
 ```bash
-python main.py
+python Tracker.py
 ```
 
 
